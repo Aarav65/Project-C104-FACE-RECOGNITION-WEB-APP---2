@@ -1,0 +1,27 @@
+body
+{
+    color: tomato;
+    background-color: springgreen;
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color:blue;
+} 
+
+#camera
+{
+    border: 2px dashed blueviolet;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_names
+{
+    color: chocolate;
+}
